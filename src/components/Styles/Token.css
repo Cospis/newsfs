@@ -1,0 +1,12 @@
+.sect{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: white;
+}
+.defaulttoken{
+    margin-top: 70px;
+    display: flex;
+    background-color: #A02279;
+    justify-content: space-around;
+}

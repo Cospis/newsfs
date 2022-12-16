@@ -1,0 +1,8 @@
+.placecards{
+    padding: 100px 100px;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}

@@ -1,0 +1,41 @@
+.defaultfooter{
+    background-color:  #1D1D1E;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 115px;
+    color: white;
+
+}
+.t1{
+      display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+.meta-lists ul{
+    list-style-type: none;
+
+}
+.social{
+    padding-top: 100px;
+     padding-bottom: 60px;
+}
+#igsocial{
+    padding: 0px 50px;
+}
+ul #title{
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+.meta-lists ul li{
+    padding-bottom: 20px;
+}
+.meta-lists{
+    display: flex;
+    gap: 200px;
+}
+.copyright{
+    display: flex;
+    gap: 10px;
+}

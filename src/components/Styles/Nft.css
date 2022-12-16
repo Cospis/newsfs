@@ -1,0 +1,25 @@
+.defaultnft{
+    display: flex;
+    padding: 50px 100px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    background-color: #A02279;
+    color: white;
+}
+.text{
+    width: 50%;
+} 
+.text p{
+    padding: 30px 0px;
+}
+.text button{
+    padding: 15px 30px;
+    border-radius:8px ;
+    border: none;
+    color: #A02279;
+    font-weight: bold;
+}
+.defaultnft img{
+    width: 100%;
+}

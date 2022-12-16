@@ -1,0 +1,22 @@
+.placenavbar{
+    padding: 0px 100px;
+}
+.placenavbar ul{
+    list-style-type: none ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 75px;
+}
+.placenavbar ul li button{  
+    border: 1px solid #B4B4B4;
+    background-color: white;
+    border-radius: 8px;
+    padding: 14px;
+    display: flex;
+    align-items: center;
+}
+#set-btn{
+
+    padding-left: 15px;
+}

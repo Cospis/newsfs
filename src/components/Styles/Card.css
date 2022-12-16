@@ -1,0 +1,21 @@
+.defaultcard{
+    width: 230px;
+    border: 1px solid #D7D7D7;
+    border-radius: 15px;
+    padding: 16px;
+}
+.img img{
+    width: 230px;
+}
+.title, .dist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+.defaultcard p, h5{
+font-size: 10px;
+}
+.stars img{
+    padding-right: 8px;
+}
