@@ -1,8 +1,5 @@
 import "../Styles/Rent.css";
-import image3 from "../Imgs/image3.svg";
-import image4 from "../Imgs/image4.svg";
-import image5 from "../Imgs/image5.svg";
-import image6 from "../Imgs/image6.svg";
+import p5 from "../Imgs/p5.svg";
 const DefaultRent = () => {
   return (
     <div className="defaultrent">
@@ -23,12 +20,12 @@ const DefaultRent = () => {
       </div>
       <div className="image">
         <div className="img1">
-          <img src={image4} id="first" alt="" />
-          <img src={image6} id="second" alt="" />
+          <img src={p5} id="first" alt="" />
+          <img src={p5} id="second" alt="" />
         </div>
         <div className="img2">
-          <img src={image3} id="first" alt="" />
-          <img src={image5} id="second" alt="" />
+          <img src={p5} id="first" alt="" />
+          <img src={p5} id="second" alt="" />
         </div>
       </div>
     </div>
